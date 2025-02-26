@@ -17,7 +17,7 @@ A simple website tour guide using **Intro.js** to guide users through different 
 ## Setup Instructions
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/website-tour-guide.git
+   git clone https://github.com/hasanrza/website-tour-guide.git
    ```
 2. Navigate to the project directory:
    ```sh
